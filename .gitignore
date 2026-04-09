@@ -4,3 +4,4 @@ lib/
 *.t2v
 output/PNGS/
 output/FILES/
+/MODEL
